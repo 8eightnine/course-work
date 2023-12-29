@@ -1,0 +1,16 @@
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\bin\Debug\Kursovaia.exe.config
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\bin\Debug\Kursovaia.exe
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\bin\Debug\Kursovaia.pdb
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.csproj.AssemblyReference.cache
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.Properties.Resources.resources
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.csproj.GenerateResource.cache
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.csproj.CoreCompileInputs.cache
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.csproj.CopyComplete
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.exe
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.pdb
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.PersonalCard.resources
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.DocumentForm.resources
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.MainForm.resources
+C:\Users\toner\source\repos\Kursovaia\Kursovaia\obj\Debug\Kursovaia.Forms.TestForm.resources

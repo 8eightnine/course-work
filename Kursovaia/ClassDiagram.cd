@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kursovaia.Database">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.DocumentForm">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <Members>
+      <Field Name="AgeLabel" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="DocumentNumberLabel" Hidden="true" />
+      <Field Name="DocumentPictureBox" Hidden="true" />
+      <Field Name="FIOLabel" Hidden="true" />
+      <Field Name="InfoTextBox" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="PlaceLabel" Hidden="true" />
+      <Field Name="SaveButton" Hidden="true" />
+      <Field Name="TodayDayLabel" Hidden="true" />
+      <Field Name="TodayMonthLabel" Hidden="true" />
+      <Field Name="TodayYearLabel" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BAAIAAAAACAAAAIAAACAAAgCAAAgAQCAgAIAABAACAA=</HashCode>
+      <FileName>Forms\DocumentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.MainForm">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="AboutToolStripMenuItem" Hidden="true" />
+      <Field Name="AddPatientToolStripMenuItem" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="contextMenuStrip1" Hidden="true" />
+      <Field Name="CreateMedicalDocumentToolStripMenuItem" Hidden="true" />
+      <Field Name="CreateNewDBToolStripMenuItem" Hidden="true" />
+      <Field Name="DatabaseTab" Hidden="true" />
+      <Field Name="DataBaseToolStripMenuItem" Hidden="true" />
+      <Field Name="DeletePatientToolStripMenuItem" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="LoginToolStripMenuItem" Hidden="true" />
+      <Field Name="LogoutToolStripMenuItem" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="patientsTab" Hidden="true" />
+      <Field Name="PatientsView" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQIAgRAAACAwIAABAACFAASyAiAEAAAAQAQAAwAIAAA=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.Patient">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.MedicalHistory">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAEAAAAA=</HashCode>
+      <FileName>Classes\MedicalHistory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.PersonalCard">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <Members>
+      <Field Name="AddAppointmentButton" Hidden="true" />
+      <Field Name="AddTestButton" Hidden="true" />
+      <Field Name="AllowEditing" Hidden="true" />
+      <Field Name="BirthdayDateTimePicker" Hidden="true" />
+      <Field Name="BirthdayLabel" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="contextMenuStrip1" Hidden="true" />
+      <Field Name="DeleteDataToolStripMenuItem" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="FathernameLabel" Hidden="true" />
+      <Field Name="FathernameTextBox" Hidden="true" />
+      <Field Name="GenderFemale" Hidden="true" />
+      <Field Name="GenderLabel" Hidden="true" />
+      <Field Name="GenderMale" Hidden="true" />
+      <Field Name="IDLabel" Hidden="true" />
+      <Field Name="InfoTextBox" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="MedicalHistoryDateTimePicker" Hidden="true" />
+      <Field Name="MedicalHistoryView" Hidden="true" />
+      <Field Name="NameLabel" Hidden="true" />
+      <Field Name="NameTextBox" Hidden="true" />
+      <Field Name="PrintTestToolStripMenuItem" Hidden="true" />
+      <Field Name="ResultTextBox" Hidden="true" />
+      <Field Name="StatusCompleted" Hidden="true" />
+      <Field Name="StatusUncompleted" Hidden="true" />
+      <Field Name="SurnameLabel" Hidden="true" />
+      <Field Name="SurnameTextBox" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BACJQFAKBmhIISgBgADJgAiGAwQAoAAAIIIxAQiBigA=</HashCode>
+      <FileName>Forms\PersonalCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.PersonalInfo">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAUABAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\PersonalInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.Appointment">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursovaia.Test">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
